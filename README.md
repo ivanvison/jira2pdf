@@ -29,7 +29,7 @@ At the end, I used Cursor + Claude Sonnet to accomplish the objective.
 ## Setup
 1. **Clone or copy this repository:**
    ```bash
-   git clone [<repository-url>](https://github.com/ivanvison/jira2pdf)
+   git clone https://github.com/ivanvison/jira2pdf
    cd jira2pdf
    ```
 
