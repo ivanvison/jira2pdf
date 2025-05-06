@@ -63,6 +63,11 @@ At the end, I used Cursor + Claude Sonnet to accomplish the objective.
    ```
 
 6. **Add your Jira issue keys** (one per line) to `keys.txt`.
+   ```
+   # Sample Keys:
+   SAMP-11
+   BPI-4524
+   ```
 
 ## Usage
 Run the main program:
