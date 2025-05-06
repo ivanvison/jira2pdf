@@ -1,0 +1,15 @@
+# Environment files
+.env
+
+# Exported PDFs
+exports/
+*.pdf
+
+# Python
+__pycache__/
+
+# Virtual Environment
+.venv/
+
+# Potential sensitive information
+.ARCHIVED/

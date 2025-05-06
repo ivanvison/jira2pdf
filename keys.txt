@@ -1,0 +1,7 @@
+# Jira issue keys to export
+# One key per line, lines starting with # are comments
+
+# Sample issue keys
+#BBP-2025
+#BPI-154
+#BAL-58
